@@ -73,5 +73,20 @@
         "id": 15,
         "name": "Kiralık Aile (Rental Family)",
         "date": "21.03.2026"
+    },
+    {
+        "id": 16,
+        "name": "Baba 1 (The Godfather 1) (1972)",
+        "date": "22.03.2026"
+    },
+    {
+        "id": 17,
+        "name": "Baba 2 (The Godfather 2) (1974)",
+        "date": "22.03.2026"
+    },
+    {
+        "id": 18,
+        "name": "Baba 3 (The Godfather 3) (1990)",
+        "date": "22.03.2026"
     }
 ]
