@@ -123,5 +123,15 @@
         "id": 25,
         "name": "Yaralı Yüz (Scarface) (1983)",
         "date": "24.04.2026"
+    },
+    {
+        "id": 26,
+        "name": "Kadın Kokusu (Scent of a Woman) (1992)",
+        "date": "01.05.2026"
+    },
+    {
+        "id": 27,
+        "name": "Uykusuz (Insomnia) (2002)",
+        "date": "02.05.2026"
     }
 ]
