@@ -413,5 +413,20 @@
         "id": 83,
         "name": "Cumartesi Gecesi Ateşi (Saturday Night Fever) (1977)",
         "date": "11.10.2026"
+    },
+    {
+        "id": 84,
+        "name": "Eyyvah Eyvah (2010)",
+        "date": "14.10.2026"
+    },
+    {
+        "id": 85,
+        "name": "Eyyvah Eyvah 2 (2011)",
+        "date": "15.10.2026"
+    },
+    {
+        "id": 86,
+        "name": "Eyyvah Eyvah 3 (2014)",
+        "date": "16.10.2026"
     }
 ]
