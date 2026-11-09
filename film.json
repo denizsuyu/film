@@ -433,5 +433,20 @@
         "id": 87,
         "name": "Terminator 1 Yok Edici (The Terminator) (1984)",
         "date": "02.11.2026"
+    },
+    {
+        "id": 88,
+        "name": "Terminator 2 Mahşer Günü (Terminator 2 Judgment Day) (1991)",
+        "date": "03.11.2026"
+    },
+    {
+        "id": 89,
+        "name": "Terminator 3 Makinaların Yükselişi (Terminator 3 Rise of the Machines) (2003)",
+        "date": "04.11.2026"
+    },
+    {
+        "id": 90,
+        "name": "Terminator 4 Kurtuluş (Terminator 4 Salvation) (2009)",
+        "date": "05.11.2026"
     }
 ]
